@@ -288,7 +288,7 @@ function Home() {
   <div style={{ display: "flex", gap: "24px", width: "1300px" }}>
     {[
       {
-        img: "/property-1.webp",
+        img: "/public/property-1.webp",
         address: "1425 Sunset Plaza Drive",
         location: "West Hollywood",
         listed: "$6,995,000",
@@ -297,7 +297,7 @@ function Home() {
         over: "+12% over ask"
       },
       {
-        img: "/property-2.webp",
+        img: "/public/property-2.webp",
         address: "9876 Mulholland Drive",
         location: "West Hollywood",
         listed: "$6,995,000",
@@ -306,7 +306,7 @@ function Home() {
         over: "+12% over ask"
       },
       {
-        img: "/property-3.webp",
+        img: "/public/property-3.webp",
         address: "2340 Pacific Coast Highway",
         location: "West Hollywood",
         listed: "$6,995,000",
